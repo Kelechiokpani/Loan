@@ -1,0 +1,42 @@
+.Download-Loan{
+    padding: 16px 32px;
+    border-radius: 8px;
+    background-color: #171d32;
+    box-shadow: 0 0 30px 0 transparent;
+    -webkit-transition: box-shadow 400ms ease, -webkit-transform 300ms ease;
+    transition: box-shadow 400ms ease, -webkit-transform 300ms ease;
+    transition: transform 300ms ease, box-shadow 400ms ease;
+    transition: transform 300ms ease, box-shadow 400ms ease, -webkit-transform 300ms ease;
+    color: #fff;
+    font-size: 18px;
+    line-height: 21px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.hero-image-block {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    /* background-image: url(../images/hero-mockup_1.png); */
+    background-position: 50% 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+/* ------- */
+.Loan-offer-wrapper{
+    background-color: rgba(55, 164, 119, 0.1);
+}
+
+
+
+
+
+
+
+/* News Wrapper---- */
+
