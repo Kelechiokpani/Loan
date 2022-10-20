@@ -54,7 +54,7 @@ const Carousel = () => {
                                     GET INSTANT LOANS
                                 </p>
                                 <span className="block text-2xl font-bold mb-1" style={{ color: '#2d233b' }}>
-									Pay All Your Bills, No Convenience Fee
+									Pay all Your Bills, No Convenience Fee
 								</span>
                                 <img src={user} style={{ width: '100%' }} alt="logo"/>
                             </section>
