@@ -1,7 +1,6 @@
 import * as React from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
 import './App.css';
-
 import Navbar from './component/header';
 import Home from './pages/home';
 import Comapny from './pages/company';
@@ -10,6 +9,7 @@ import Support from './pages/support';
 import LoanApply from './pages/loanApply';
 import Footer from './component/footers';
 import BusinessLoan from './pages/business';
+
 
 function App() {
 	return (
